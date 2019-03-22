@@ -1,0 +1,9 @@
+.GitHubScore {
+    height: 300px;
+    width: 900px;
+    border: 3px solid black;
+    padding: 10px;
+}
+h1 {
+    width: 200px;
+}

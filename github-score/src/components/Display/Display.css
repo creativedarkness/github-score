@@ -1,0 +1,14 @@
+.Display{
+    height: 100px;
+    width: 425px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.scoreTitle {
+    display: inline-block;
+}
+.score {
+    width: 75px;
+    display: inline-block;
+}

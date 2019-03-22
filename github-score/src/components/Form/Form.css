@@ -1,0 +1,23 @@
+.form {
+    height: 100px;
+    width: 425px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.calcButton {
+    width: 375px;
+    border: 3px solid black;
+}
+
+.title {
+    width: 170px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.userid {
+    height: 20px;
+    width: 175px;
+    display: inline-block;
+    border: 3px solid black;
+}
